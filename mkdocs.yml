@@ -2,3 +2,5 @@ site_name: Repeat English
 theme:
   name: material
   language: en
+  palette:
+    scheme: slate
